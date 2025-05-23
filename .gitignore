@@ -172,3 +172,62 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# Python-specific
+*.log
+*.pot
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtualenv
+.idea/
+.vscode/
+
+# Pyre type checker
+.pyre/
+
+# Streamlit
+.streamlit/
+
+# FastAPI/Uvicorn logs
+logs/
+*.db
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Hugging Face transformers cache
+.cache/
+transformers_cache/
+
+# Audio/video processing outputs
+*.wav
+*.mp4
+*.mp3
+*.aac
+
+# Temporary files
+*.bak
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
