@@ -11,13 +11,7 @@ A proof-of-concept web application that detects English accents from publicly sh
 - **Modern Architecture**: FastAPI backend with Streamlit frontend
 - **Real-time Analysis**: Fast processing and immediate results
 
-## Technology Stack
 
-- **Frontend**: Streamlit
-- **Backend**: FastAPI
-- **ML Framework**: SpeechBrain + PyTorch
-- **Audio Processing**: torchaudio
-- **API Framework**: Uvicorn
 
 ## Project Structure
 
